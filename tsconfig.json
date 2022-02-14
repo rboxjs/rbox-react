@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es5",
+    "noImplicitThis": true,
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
+    "strictNullChecks": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "filesGlob": [
+    "./src/**/*.ts"
+  ]
+}
